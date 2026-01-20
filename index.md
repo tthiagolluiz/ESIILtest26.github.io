@@ -7,20 +7,22 @@ Hello! I'm a student at [ESIIL](https://esiil.org) and i will be working with Py
 <img 
   src="/img/RioBSF.jpeg" 
   alt="RioBSF.jpeg" 
-  width ="50%">
+  width ="50%"
+  height = "70%"
+  style="border: dashed 5px blue;">
    
 
 <a href="https://canoadetolda.org.br/">
-Canoa de tolda (BSF)>
+Canoa de tolda (BSF)
+</a> 
 
-<iframe 
-  width="467" height="831" 
-  src="https://www.youtube.com/embed/Oly8f4h5C78" 
-  title="Natural Habitat Shorts- Chipmunks have cheek pouches used to store food. 🐿🥜" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
-  allowfullscreen>
+Change the 
+<span style="color: red; font-size: 2rem"> 
+  color and font size
+</span>.
 
+
+ 
 
 #### Contact information
 * Email
