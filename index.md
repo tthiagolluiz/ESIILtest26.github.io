@@ -13,11 +13,6 @@ Hello! I'm a student at [ESIIL](https://esiil.org) and i will be working with Py
 <a href="https://canoadetolda.org.br/"
 target="_blank">
 Canoa de tolda (BSF)
-
-<a 
-  href="https://www.my_link.org"
-  target="_blank">
-  a link
 </a> 
 
 #### Contact information
