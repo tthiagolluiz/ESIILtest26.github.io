@@ -6,7 +6,9 @@ Hello! I'm a student at [ESIIL](https://esiil.org) and i will be working with Py
 
 <img 
   src="/img/RioBSF.jpeg" 
-  alt="RioBSF.jpeg" />
+  alt="RioBSF.jpeg" 
+  width ="50%">
+   
 
 <a href="https://canoadetolda.org.br/">
   Canoa de tolda (BSF)
