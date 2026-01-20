@@ -1,7 +1,7 @@
-theme: teste
-title: Região do Baixo São Francisco
-name: ris
-
-logo: img/RioBSF.jpeg
+theme: 
+title:
+name: 
+description: 
+logo: 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins: - jekyll-remote-theme # add this line to the plugins list if you already have one
