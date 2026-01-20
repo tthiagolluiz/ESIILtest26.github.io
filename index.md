@@ -11,8 +11,7 @@ Hello! I'm a student at [ESIIL](https://esiil.org) and i will be working with Py
    
 
 <a href="https://canoadetolda.org.br/">
-  Canoa de tolda (BSF)
-
+  Canoa de tolda (BSF)>
 
 #### Contact information
 * Email
