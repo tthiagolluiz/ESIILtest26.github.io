@@ -14,6 +14,12 @@ Hello! I'm a student at [ESIIL](https://esiil.org) and i will be working with Py
 target="_blank">
 Canoa de tolda (BSF)
 
+<a 
+  href="https://www.my_link.org"
+  target="_blank">
+  a link
+</a> 
+
 #### Contact information
 * Email
 * GitHub
