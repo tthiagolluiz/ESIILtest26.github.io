@@ -1,6 +1,7 @@
 theme: 
 title:
 name: 
+description: Região do baixo São Francisco
 logo: img/RioBSF.jpeg
 remote_theme: pages-themes/minimal@v0.2.0
 plugins: 
