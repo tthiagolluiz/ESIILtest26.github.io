@@ -8,8 +8,8 @@ Hello! I'm a student at [ESIIL](https://esiil.org) and i will be working with Py
   src="/img/RioBSF.jpeg" 
   alt="RioBSF.jpeg" />
 
-<a href="https://www.my_link.org">
-  a link
+<a href="https://canoadetolda.org.br/">
+  Canoa de tolda (BSF)
 </a>
 
 #### Contact information
