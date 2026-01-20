@@ -10,8 +10,7 @@ Hello! I'm a student at [ESIIL](https://esiil.org) and i will be working with Py
   width ="50%">
    
 
-<a href="https://canoadetolda.org.br/"
-target="_blank">
+<a href="https://canoadetolda.org.br/">
 Canoa de tolda (BSF)
 
 
