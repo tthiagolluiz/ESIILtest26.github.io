@@ -1,5 +1,5 @@
-theme: jekyll-theme-slate
-title: Summer Dupree ESIIL Stars
+theme: 
+title: 
 name:
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
