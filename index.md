@@ -18,7 +18,7 @@ Canoa de tolda (BSF)
 Change the 
 <span style="color: red; font-size: 2rem"> 
   color and font size
-</span>.
+</span>
 
 #### Contact information
 * Email
