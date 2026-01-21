@@ -1,6 +1,6 @@
-theme: 
-title:
-name: 
+theme: rskj
+title: Região do Baixo São Francisco
+name: Thiago Luiz
 description: Região do baixo São Francisco
 logo: img/RioBSF.jpeg
 remote_theme: pages-themes/minimal@v0.2.0
