@@ -33,4 +33,4 @@ map_filename = 'cu-boulder.html'
 * GitHub
 
 #### MAptoHaskell
-<embed type ="text/html" src="haskell.html" width="600" height"600">
+<embed type ="text/html" src="img/haskell.html" width="600" height"600">
