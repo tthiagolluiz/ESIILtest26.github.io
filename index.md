@@ -31,3 +31,6 @@ map_filename = 'cu-boulder.html'
 #### Contact information
 * Email
 * GitHub
+
+#### MAptoHaskell
+<embed type ="text/html" src="haskell.html" width="600" height"600">
