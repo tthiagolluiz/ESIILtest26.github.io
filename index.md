@@ -10,7 +10,7 @@ Hello! I'm a student at [ESIIL](https://esiil.org) and i will be working with Py
   width ="50%"
   height = "80%"
   style="border: dashed 5px blue;">
-   
+  
 <a href="https://canoadetolda.org.br/">
 Canoa de tolda (BSF)
 </a> 
@@ -25,4 +25,4 @@ Change the
 * GitHub
 
 #### MAptoHaskell
-<embed type ="text/html" src="img/haskell.html" width="600" height"600">
+    <embed type ="text/html" src="img/haskell.html" width="600" height"600">
