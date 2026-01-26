@@ -20,14 +20,6 @@ Change the
   CBHSF 
 </span>
 
-id = 'shortcourse'
-address = 'University of Colorado Boulder, Boulder, CO, United States'
-tag_key = 'amenity'
-tag_value = 'university'
-long_name = 'University of Colorado Boulder'
-short_name = 'CU Boulder'
-map_filename = 'cu-boulder.html'
-
 #### Contact information
 * Email
 * GitHub
