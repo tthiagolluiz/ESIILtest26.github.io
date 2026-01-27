@@ -25,4 +25,10 @@ Change the
 * GitHub
 
 #### MAptoHaskell
-    <embed type ="text/html" src="img/haskell.html" width="600" height"600">
+<embed 
+  src="img/haskell.html"
+  alt="RioBSF.jpeg" 
+  width ="600"
+  height = "600"
+  type ="text/html">
+  style="border" >
