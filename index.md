@@ -30,5 +30,5 @@ Change the
   alt="RioBSF.jpeg" 
   width ="600"
   height = "600"
-  type ="text/html"
-  style="border" >
+  type ="text/html">
+ 
